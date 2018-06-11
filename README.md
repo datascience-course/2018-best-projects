@@ -1,18 +1,18 @@
 # Introduction to Data Science - Best Projects
 
-Introduction to Data Science (MATH 4100 / CS 5360), University of Utah . 
-[http://datasciencecourse.net/2018/](http://datasciencecourse.net/2018/) . 
+Introduction to Data Science (MATH 4100 / CS 5360), University of Utah  
+[http://datasciencecourse.net/2018/](http://datasciencecourse.net/2018/)  
 
-This repository contains the best projects of 2018 . 
+This repository contains the best projects of 2018  
 
-## Winners: Categorization of Asteroids by Probable Origin . 
+## Winners: Categorization of Asteroids by Probable Origin  
   
 **Virtual Sommelier**
-Brian Tillman, Jiada Li, Trevor Olsen .
+Brian Tillman, Jiada Li, Trevor Olsen  
 [Project Video](https://www.youtube.com/watch?v=6asJv4zSYCQ&feature=youtu.be)
   
 **Take Your Shot, a Shot Chart Analysis of the Utah Jazz**
-Jacob Brown, Kyle Salisbury, Avery Smith
+Jacob Brown, Kyle Salisbury, Avery Smith  
 [Project Video](https://www.youtube.com/watch?v=HDrmcKn1qhI) 
   
   
