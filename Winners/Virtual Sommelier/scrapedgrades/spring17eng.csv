@@ -1,0 +1,841 @@
+Catalog Num,Course Level,Grade Group,Section,Subject,sumHeadcount
+1020,1000-1999,W,1,BIOEN - Bioengineering,2
+1020,1000-1999,E,1,BIOEN - Bioengineering,1
+1020,1000-1999,D,1,BIOEN - Bioengineering,2
+1020,1000-1999,C,1,BIOEN - Bioengineering,16
+1020,1000-1999,B,1,BIOEN - Bioengineering,56
+1020,1000-1999,A,1,BIOEN - Bioengineering,67
+3091,3000-3999,Other,1,BIOEN - Bioengineering,56
+3101,3000-3999,W,1,BIOEN - Bioengineering,1
+3101,3000-3999,E,1,BIOEN - Bioengineering,2
+3101,3000-3999,D,1,BIOEN - Bioengineering,2
+3101,3000-3999,C,1,BIOEN - Bioengineering,16
+3101,3000-3999,B,1,BIOEN - Bioengineering,30
+3101,3000-3999,A,1,BIOEN - Bioengineering,35
+3301,3000-3999,E,2,BIOEN - Bioengineering,1
+3301,3000-3999,D,2,BIOEN - Bioengineering,1
+3301,3000-3999,C,3,BIOEN - Bioengineering,2
+3301,3000-3999,C,1,BIOEN - Bioengineering,3
+3301,3000-3999,B,3,BIOEN - Bioengineering,12
+3301,3000-3999,B,2,BIOEN - Bioengineering,15
+3301,3000-3999,B,1,BIOEN - Bioengineering,14
+3301,3000-3999,A,3,BIOEN - Bioengineering,17
+3301,3000-3999,A,2,BIOEN - Bioengineering,10
+3301,3000-3999,A,1,BIOEN - Bioengineering,7
+3801,3000-3999,Other,1,BIOEN - Bioengineering,4
+3801,3000-3999,B,1,BIOEN - Bioengineering,7
+3801,3000-3999,A,1,BIOEN - Bioengineering,52
+4001,4000-4999,Other,1,BIOEN - Bioengineering,2
+4001,4000-4999,C,1,BIOEN - Bioengineering,1
+4001,4000-4999,B,1,BIOEN - Bioengineering,6
+4001,4000-4999,A,1,BIOEN - Bioengineering,47
+4200,4000-4999,Other,1,BIOEN - Bioengineering,25
+4200,4000-4999,A,1,BIOEN - Bioengineering,23
+4202,4000-4999,C,1,BIOEN - Bioengineering,1
+4202,4000-4999,B,1,BIOEN - Bioengineering,3
+4202,4000-4999,A,1,BIOEN - Bioengineering,64
+4301,4000-4999,Other,1,BIOEN - Bioengineering,3
+4301,4000-4999,C,1,BIOEN - Bioengineering,2
+4301,4000-4999,B,1,BIOEN - Bioengineering,16
+4301,4000-4999,A,1,BIOEN - Bioengineering,66
+4702,4000-4999,E,1,BIOEN - Bioengineering,1
+4702,4000-4999,B,1,BIOEN - Bioengineering,3
+4702,4000-4999,A,1,BIOEN - Bioengineering,4
+4990,4000-4999,A,1,BIOEN - Bioengineering,ds
+4999,4000-4999,A,1,BIOEN - Bioengineering,7
+5005,5000-5999,Other,1,BIOEN - Bioengineering,1
+5005,5000-5999,B,1,BIOEN - Bioengineering,1
+5005,5000-5999,A,1,BIOEN - Bioengineering,4
+5160,5000-5999,A,1,BIOEN - Bioengineering,20
+5250,5000-5999,E,1,BIOEN - Bioengineering,1
+5250,5000-5999,C,1,BIOEN - Bioengineering,1
+5250,5000-5999,B,1,BIOEN - Bioengineering,4
+5250,5000-5999,A,1,BIOEN - Bioengineering,8
+5602,5000-5999,Other,1,BIOEN - Bioengineering,3
+5602,5000-5999,A,1,BIOEN - Bioengineering,3
+5701,5000-5999,A,1,BIOEN - Bioengineering,ds
+1705,1000-1999,D,1,CH EN - Chemical Engineering,6
+1705,1000-1999,C,1,CH EN - Chemical Engineering,6
+1705,1000-1999,B,1,CH EN - Chemical Engineering,31
+1705,1000-1999,A,1,CH EN - Chemical Engineering,45
+2800,2000-2999,E,1,CH EN - Chemical Engineering,2
+2800,2000-2999,D,1,CH EN - Chemical Engineering,6
+2800,2000-2999,C,1,CH EN - Chemical Engineering,12
+2800,2000-2999,B,1,CH EN - Chemical Engineering,23
+2800,2000-2999,A,1,CH EN - Chemical Engineering,27
+3253,3000-3999,E,1,CH EN - Chemical Engineering,1
+3253,3000-3999,C,1,CH EN - Chemical Engineering,11
+3253,3000-3999,B,1,CH EN - Chemical Engineering,39
+3253,3000-3999,A,1,CH EN - Chemical Engineering,34
+3255,3000-3999,W,1,CH EN - Chemical Engineering,3
+3255,3000-3999,C,1,CH EN - Chemical Engineering,1
+3255,3000-3999,B,1,CH EN - Chemical Engineering,9
+3255,3000-3999,A,1,CH EN - Chemical Engineering,40
+3453,3000-3999,E,1,CH EN - Chemical Engineering,1
+3453,3000-3999,C,1,CH EN - Chemical Engineering,6
+3553,3000-3999,W,1,CH EN - Chemical Engineering,2
+3553,3000-3999,E,1,CH EN - Chemical Engineering,1
+3553,3000-3999,D,1,CH EN - Chemical Engineering,3
+3553,3000-3999,C,1,CH EN - Chemical Engineering,22
+3553,3000-3999,B,1,CH EN - Chemical Engineering,33
+3553,3000-3999,A,1,CH EN - Chemical Engineering,28
+3603,3000-3999,W,1,CH EN - Chemical Engineering,2
+3603,3000-3999,E,1,CH EN - Chemical Engineering,8
+3603,3000-3999,D,1,CH EN - Chemical Engineering,12
+3603,3000-3999,C,1,CH EN - Chemical Engineering,24
+3603,3000-3999,B,1,CH EN - Chemical Engineering,20
+3603,3000-3999,A,1,CH EN - Chemical Engineering,20
+4755,4000-4999,Other,1,CH EN - Chemical Engineering,145
+4755,4000-4999,W,1,CH EN - Chemical Engineering,4
+4850,4000-4999,Other,1,CH EN - Chemical Engineering,51
+4850,4000-4999,W,1,CH EN - Chemical Engineering,1
+4905,4000-4999,C,2,CH EN - Chemical Engineering,1
+4905,4000-4999,B,2,CH EN - Chemical Engineering,26
+4905,4000-4999,B,1,CH EN - Chemical Engineering,31
+4905,4000-4999,A,2,CH EN - Chemical Engineering,15
+4905,4000-4999,A,1,CH EN - Chemical Engineering,17
+4977,4000-4999,B,1,CH EN - Chemical Engineering,1
+4977,4000-4999,A,1,CH EN - Chemical Engineering,13
+4978,4000-4999,A,1,CH EN - Chemical Engineering,6
+4980,4000-4999,A,5,CH EN - Chemical Engineering,ds
+4980,4000-4999,A,4,CH EN - Chemical Engineering,ds
+4980,4000-4999,A,3,CH EN - Chemical Engineering,ds
+4980,4000-4999,A,2,CH EN - Chemical Engineering,ds
+4980,4000-4999,A,1,CH EN - Chemical Engineering,ds
+4999,4000-4999,A,1,CH EN - Chemical Engineering,ds
+5103,5000-5999,W,1,CH EN - Chemical Engineering,1
+5103,5000-5999,C,1,CH EN - Chemical Engineering,14
+5103,5000-5999,B,1,CH EN - Chemical Engineering,37
+5103,5000-5999,A,1,CH EN - Chemical Engineering,39
+5203,5000-5999,B,1,CH EN - Chemical Engineering,ds
+5253,5000-5999,C,1,CH EN - Chemical Engineering,9
+5253,5000-5999,B,1,CH EN - Chemical Engineering,48
+5253,5000-5999,A,1,CH EN - Chemical Engineering,34
+5305,5000-5999,C,1,CH EN - Chemical Engineering,8
+5305,5000-5999,B,1,CH EN - Chemical Engineering,29
+5305,5000-5999,A,1,CH EN - Chemical Engineering,8
+5810,5000-5999,D,1,CH EN - Chemical Engineering,1
+5810,5000-5999,C,1,CH EN - Chemical Engineering,2
+5810,5000-5999,B,1,CH EN - Chemical Engineering,4
+5810,5000-5999,A,1,CH EN - Chemical Engineering,2
+5950,5000-5999,A,2,CH EN - Chemical Engineering,ds
+5960,5000-5999,C,2,CH EN - Chemical Engineering,1
+5960,5000-5999,B,2,CH EN - Chemical Engineering,5
+5960,5000-5999,A,2,CH EN - Chemical Engineering,23
+1000,1000-1999,Other,1,CS - Computer Science,5
+1000,1000-1999,W,1,CS - Computer Science,6
+1000,1000-1999,E,1,CS - Computer Science,4
+1000,1000-1999,D,1,CS - Computer Science,4
+1000,1000-1999,C,1,CS - Computer Science,10
+1000,1000-1999,B,1,CS - Computer Science,22
+1000,1000-1999,A,1,CS - Computer Science,12
+1001,1000-1999,Other,1,CS - Computer Science,4
+1001,1000-1999,E,1,CS - Computer Science,3
+1001,1000-1999,D,1,CS - Computer Science,3
+1001,1000-1999,C,1,CS - Computer Science,9
+1001,1000-1999,B,1,CS - Computer Science,13
+1001,1000-1999,A,1,CS - Computer Science,9
+1030,1000-1999,W,1,CS - Computer Science,10
+1030,1000-1999,E,1,CS - Computer Science,12
+1030,1000-1999,D,1,CS - Computer Science,6
+1030,1000-1999,C,1,CS - Computer Science,11
+1030,1000-1999,B,1,CS - Computer Science,43
+1030,1000-1999,A,1,CS - Computer Science,51
+1040,1000-1999,W,90,CS - Computer Science,2
+1040,1000-1999,E,90,CS - Computer Science,1
+1040,1000-1999,D,90,CS - Computer Science,3
+1040,1000-1999,C,90,CS - Computer Science,1
+1040,1000-1999,B,90,CS - Computer Science,2
+1040,1000-1999,A,90,CS - Computer Science,32
+1410,1000-1999,Other,1,CS - Computer Science,1
+1410,1000-1999,W,1,CS - Computer Science,9
+1410,1000-1999,E,1,CS - Computer Science,7
+1410,1000-1999,D,1,CS - Computer Science,12
+1410,1000-1999,C,1,CS - Computer Science,15
+1410,1000-1999,B,1,CS - Computer Science,32
+1410,1000-1999,A,1,CS - Computer Science,90
+2100,2000-2999,W,1,CS - Computer Science,10
+2100,2000-2999,E,1,CS - Computer Science,27
+2100,2000-2999,D,1,CS - Computer Science,17
+2100,2000-2999,C,1,CS - Computer Science,38
+2100,2000-2999,B,1,CS - Computer Science,40
+2100,2000-2999,A,1,CS - Computer Science,40
+2420,2000-2999,Other,1,CS - Computer Science,1
+2420,2000-2999,W,1,CS - Computer Science,10
+2420,2000-2999,E,1,CS - Computer Science,22
+2420,2000-2999,D,1,CS - Computer Science,7
+2420,2000-2999,C,1,CS - Computer Science,37
+2420,2000-2999,B,1,CS - Computer Science,59
+2420,2000-2999,A,1,CS - Computer Science,59
+3011,3000-3999,W,1,CS - Computer Science,1
+3011,3000-3999,C,1,CS - Computer Science,1
+3011,3000-3999,B,1,CS - Computer Science,2
+3011,3000-3999,A,1,CS - Computer Science,34
+3130,3000-3999,W,1,CS - Computer Science,1
+3130,3000-3999,E,1,CS - Computer Science,1
+3130,3000-3999,D,1,CS - Computer Science,3
+3130,3000-3999,C,1,CS - Computer Science,7
+3130,3000-3999,B,1,CS - Computer Science,19
+3130,3000-3999,A,1,CS - Computer Science,28
+3200,3000-3999,W,1,CS - Computer Science,5
+3200,3000-3999,E,1,CS - Computer Science,1
+3200,3000-3999,D,1,CS - Computer Science,1
+3200,3000-3999,C,1,CS - Computer Science,4
+3200,3000-3999,B,1,CS - Computer Science,17
+3200,3000-3999,A,1,CS - Computer Science,17
+3500,3000-3999,Other,1,CS - Computer Science,1
+3500,3000-3999,W,1,CS - Computer Science,5
+3500,3000-3999,E,1,CS - Computer Science,3
+3500,3000-3999,D,1,CS - Computer Science,5
+3500,3000-3999,C,1,CS - Computer Science,25
+3500,3000-3999,B,1,CS - Computer Science,51
+3500,3000-3999,A,1,CS - Computer Science,44
+3505,3000-3999,W,1,CS - Computer Science,1
+3505,3000-3999,E,1,CS - Computer Science,1
+3505,3000-3999,D,1,CS - Computer Science,1
+3505,3000-3999,C,1,CS - Computer Science,3
+3505,3000-3999,B,1,CS - Computer Science,28
+3505,3000-3999,A,1,CS - Computer Science,90
+3700,3000-3999,C,1,CS - Computer Science,3
+3700,3000-3999,B,1,CS - Computer Science,7
+3700,3000-3999,A,1,CS - Computer Science,10
+3810,3000-3999,Other,1,CS - Computer Science,1
+3810,3000-3999,W,1,CS - Computer Science,4
+3810,3000-3999,D,1,CS - Computer Science,4
+3810,3000-3999,C,1,CS - Computer Science,26
+3810,3000-3999,B,1,CS - Computer Science,41
+3810,3000-3999,A,1,CS - Computer Science,45
+3992,3000-3999,B,1,CS - Computer Science,2
+3992,3000-3999,A,1,CS - Computer Science,5
+4000,4000-4999,B,1,CS - Computer Science,4
+4000,4000-4999,A,1,CS - Computer Science,38
+4010,4000-4999,Other,1,CS - Computer Science,ds
+4010,4000-4999,A,1,CS - Computer Science,ds
+4150,4000-4999,Other,1,CS - Computer Science,2
+4150,4000-4999,W,1,CS - Computer Science,3
+4150,4000-4999,E,1,CS - Computer Science,3
+4150,4000-4999,D,1,CS - Computer Science,1
+4150,4000-4999,C,1,CS - Computer Science,24
+4150,4000-4999,B,1,CS - Computer Science,59
+4150,4000-4999,A,1,CS - Computer Science,27
+4230,4000-4999,C,1,CS - Computer Science,1
+4230,4000-4999,B,1,CS - Computer Science,6
+4230,4000-4999,A,1,CS - Computer Science,7
+4400,4000-4999,W,1,CS - Computer Science,7
+4400,4000-4999,E,1,CS - Computer Science,14
+4400,4000-4999,D,1,CS - Computer Science,9
+4400,4000-4999,C,1,CS - Computer Science,16
+4400,4000-4999,B,1,CS - Computer Science,33
+4400,4000-4999,A,1,CS - Computer Science,21
+4480,4000-4999,Other,1,CS - Computer Science,2
+4480,4000-4999,W,1,CS - Computer Science,6
+4480,4000-4999,E,1,CS - Computer Science,2
+4480,4000-4999,D,1,CS - Computer Science,3
+4480,4000-4999,C,1,CS - Computer Science,32
+4480,4000-4999,B,1,CS - Computer Science,49
+4480,4000-4999,A,1,CS - Computer Science,18
+4500,4000-4999,C,1,CS - Computer Science,4
+4500,4000-4999,B,1,CS - Computer Science,24
+4500,4000-4999,A,1,CS - Computer Science,43
+4530,4000-4999,W,2,CS - Computer Science,1
+4530,4000-4999,W,1,CS - Computer Science,4
+4530,4000-4999,E,2,CS - Computer Science,1
+4530,4000-4999,E,1,CS - Computer Science,2
+4530,4000-4999,D,2,CS - Computer Science,1
+4530,4000-4999,C,2,CS - Computer Science,1
+4530,4000-4999,C,1,CS - Computer Science,6
+4530,4000-4999,B,2,CS - Computer Science,1
+4530,4000-4999,B,1,CS - Computer Science,6
+4530,4000-4999,A,2,CS - Computer Science,7
+4530,4000-4999,A,1,CS - Computer Science,15
+4540,4000-4999,W,1,CS - Computer Science,2
+4540,4000-4999,E,1,CS - Computer Science,3
+4540,4000-4999,C,1,CS - Computer Science,5
+4540,4000-4999,B,1,CS - Computer Science,3
+4540,4000-4999,A,1,CS - Computer Science,75
+4940,4000-4999,A,41,CS - Computer Science,ds
+4940,4000-4999,A,30,CS - Computer Science,ds
+4950,4000-4999,A,5,CS - Computer Science,ds
+4964,4000-4999,E,1,CS - Computer Science,1
+4964,4000-4999,D,1,CS - Computer Science,1
+4964,4000-4999,C,1,CS - Computer Science,1
+4964,4000-4999,B,1,CS - Computer Science,6
+4964,4000-4999,A,1,CS - Computer Science,15
+4970,4000-4999,A,55,CS - Computer Science,ds
+4970,4000-4999,A,42,CS - Computer Science,ds
+4970,4000-4999,A,27,CS - Computer Science,ds
+4970,4000-4999,A,11,CS - Computer Science,ds
+4970,4000-4999,A,9,CS - Computer Science,ds
+4998,4000-4999,Other,2,CS - Computer Science,ds
+4998,4000-4999,Other,1,CS - Computer Science,ds
+4998,4000-4999,A,1,CS - Computer Science,ds
+4999,4000-4999,A,4,CS - Computer Science,ds
+4999,4000-4999,A,2,CS - Computer Science,ds
+5010,5000-5999,B,1,CS - Computer Science,ds
+5100,5000-5999,B,1,CS - Computer Science,1
+5100,5000-5999,A,1,CS - Computer Science,4
+5110,5000-5999,A,1,CS - Computer Science,ds
+5140,5000-5999,C,1,CS - Computer Science,3
+5140,5000-5999,B,1,CS - Computer Science,9
+5140,5000-5999,A,1,CS - Computer Science,27
+5150,5000-5999,W,1,CS - Computer Science,1
+5150,5000-5999,E,1,CS - Computer Science,1
+5150,5000-5999,C,1,CS - Computer Science,1
+5150,5000-5999,B,1,CS - Computer Science,3
+5150,5000-5999,A,1,CS - Computer Science,8
+5460,5000-5999,W,1,CS - Computer Science,2
+5460,5000-5999,E,1,CS - Computer Science,1
+5460,5000-5999,C,1,CS - Computer Science,7
+5460,5000-5999,B,1,CS - Computer Science,34
+5460,5000-5999,A,1,CS - Computer Science,17
+5530,5000-5999,W,1,CS - Computer Science,1
+5530,5000-5999,C,1,CS - Computer Science,10
+5530,5000-5999,B,1,CS - Computer Science,57
+5530,5000-5999,A,1,CS - Computer Science,65
+5610,5000-5999,D,1,CS - Computer Science,1
+5610,5000-5999,B,1,CS - Computer Science,1
+5610,5000-5999,A,1,CS - Computer Science,5
+5780,5000-5999,B,1,CS - Computer Science,5
+5780,5000-5999,A,1,CS - Computer Science,6
+5789,5000-5999,C,1,CS - Computer Science,1
+5789,5000-5999,B,1,CS - Computer Science,7
+5789,5000-5999,A,1,CS - Computer Science,10
+5966,5000-5999,B,1,CS - Computer Science,2
+5966,5000-5999,A,1,CS - Computer Science,4
+1400,1000-1999,W,1,CVEEN - Civil And Environmental Engg,1
+1400,1000-1999,E,1,CVEEN - Civil And Environmental Engg,3
+1400,1000-1999,D,1,CVEEN - Civil And Environmental Engg,1
+1400,1000-1999,B,1,CVEEN - Civil And Environmental Engg,1
+1400,1000-1999,A,1,CVEEN - Civil And Environmental Engg,15
+2010,2000-2999,E,1,CVEEN - Civil And Environmental Engg,1
+2010,2000-2999,D,1,CVEEN - Civil And Environmental Engg,4
+2010,2000-2999,C,1,CVEEN - Civil And Environmental Engg,13
+2010,2000-2999,B,1,CVEEN - Civil And Environmental Engg,8
+2140,2000-2999,W,1,CVEEN - Civil And Environmental Engg,1
+2140,2000-2999,E,1,CVEEN - Civil And Environmental Engg,1
+2140,2000-2999,D,1,CVEEN - Civil And Environmental Engg,2
+2140,2000-2999,C,1,CVEEN - Civil And Environmental Engg,12
+2140,2000-2999,B,1,CVEEN - Civil And Environmental Engg,4
+2140,2000-2999,A,1,CVEEN - Civil And Environmental Engg,1
+2300,2000-2999,W,1,CVEEN - Civil And Environmental Engg,1
+2300,2000-2999,E,1,CVEEN - Civil And Environmental Engg,1
+2300,2000-2999,C,1,CVEEN - Civil And Environmental Engg,3
+2300,2000-2999,B,1,CVEEN - Civil And Environmental Engg,4
+2300,2000-2999,A,1,CVEEN - Civil And Environmental Engg,5
+2310,2000-2999,W,1,CVEEN - Civil And Environmental Engg,1
+2310,2000-2999,D,1,CVEEN - Civil And Environmental Engg,2
+2310,2000-2999,C,1,CVEEN - Civil And Environmental Engg,2
+2310,2000-2999,B,1,CVEEN - Civil And Environmental Engg,8
+2310,2000-2999,A,1,CVEEN - Civil And Environmental Engg,3
+3100,3000-3999,W,1,CVEEN - Civil And Environmental Engg,2
+3100,3000-3999,B,1,CVEEN - Civil And Environmental Engg,10
+3100,3000-3999,A,1,CVEEN - Civil And Environmental Engg,21
+3210,3000-3999,E,1,CVEEN - Civil And Environmental Engg,1
+3210,3000-3999,C,1,CVEEN - Civil And Environmental Engg,2
+3210,3000-3999,B,1,CVEEN - Civil And Environmental Engg,16
+3210,3000-3999,A,1,CVEEN - Civil And Environmental Engg,5
+3310,3000-3999,E,1,CVEEN - Civil And Environmental Engg,1
+3310,3000-3999,D,1,CVEEN - Civil And Environmental Engg,3
+3310,3000-3999,C,1,CVEEN - Civil And Environmental Engg,9
+3310,3000-3999,B,1,CVEEN - Civil And Environmental Engg,15
+3310,3000-3999,A,1,CVEEN - Civil And Environmental Engg,4
+3315,3000-3999,B,4,CVEEN - Civil And Environmental Engg,1
+3315,3000-3999,B,3,CVEEN - Civil And Environmental Engg,3
+3315,3000-3999,A,4,CVEEN - Civil And Environmental Engg,15
+3315,3000-3999,A,3,CVEEN - Civil And Environmental Engg,11
+3510,3000-3999,D,1,CVEEN - Civil And Environmental Engg,1
+3510,3000-3999,C,1,CVEEN - Civil And Environmental Engg,8
+3510,3000-3999,B,1,CVEEN - Civil And Environmental Engg,14
+3510,3000-3999,A,1,CVEEN - Civil And Environmental Engg,4
+3520,3000-3999,W,1,CVEEN - Civil And Environmental Engg,1
+3520,3000-3999,D,1,CVEEN - Civil And Environmental Engg,1
+3520,3000-3999,C,1,CVEEN - Civil And Environmental Engg,1
+3520,3000-3999,B,1,CVEEN - Civil And Environmental Engg,16
+3520,3000-3999,A,1,CVEEN - Civil And Environmental Engg,19
+3610,3000-3999,W,1,CVEEN - Civil And Environmental Engg,1
+3610,3000-3999,D,1,CVEEN - Civil And Environmental Engg,4
+3610,3000-3999,C,1,CVEEN - Civil And Environmental Engg,9
+3610,3000-3999,B,1,CVEEN - Civil And Environmental Engg,26
+3610,3000-3999,A,1,CVEEN - Civil And Environmental Engg,8
+4222,4000-4999,Other,1,CVEEN - Civil And Environmental Engg,1
+4222,4000-4999,C,1,CVEEN - Civil And Environmental Engg,7
+4222,4000-4999,B,1,CVEEN - Civil And Environmental Engg,15
+4222,4000-4999,A,1,CVEEN - Civil And Environmental Engg,5
+4910,4000-4999,Other,1,CVEEN - Civil And Environmental Engg,1
+4910,4000-4999,C,2,CVEEN - Civil And Environmental Engg,6
+4910,4000-4999,B,2,CVEEN - Civil And Environmental Engg,10
+4910,4000-4999,B,1,CVEEN - Civil And Environmental Engg,4
+4910,4000-4999,A,2,CVEEN - Civil And Environmental Engg,3
+4910,4000-4999,A,1,CVEEN - Civil And Environmental Engg,15
+5110,5000-5999,Other,90,CVEEN - Civil And Environmental Engg,1
+5110,5000-5999,B,90,CVEEN - Civil And Environmental Engg,2
+5110,5000-5999,A,90,CVEEN - Civil And Environmental Engg,23
+5210,5000-5999,B,1,CVEEN - Civil And Environmental Engg,ds
+5220,5000-5999,B,1,CVEEN - Civil And Environmental Engg,ds
+5420,5000-5999,Other,1,CVEEN - Civil And Environmental Engg,1
+5420,5000-5999,D,1,CVEEN - Civil And Environmental Engg,1
+5420,5000-5999,C,30,CVEEN - Civil And Environmental Engg,ds
+5420,5000-5999,C,1,CVEEN - Civil And Environmental Engg,10
+5420,5000-5999,B,1,CVEEN - Civil And Environmental Engg,15
+5420,5000-5999,A,1,CVEEN - Civil And Environmental Engg,22
+5500,5000-5999,C,1,CVEEN - Civil And Environmental Engg,2
+5500,5000-5999,B,1,CVEEN - Civil And Environmental Engg,6
+5500,5000-5999,A,1,CVEEN - Civil And Environmental Engg,4
+5510,5000-5999,C,1,CVEEN - Civil And Environmental Engg,1
+5510,5000-5999,B,1,CVEEN - Civil And Environmental Engg,4
+5510,5000-5999,A,1,CVEEN - Civil And Environmental Engg,18
+5560,5000-5999,C,1,CVEEN - Civil And Environmental Engg,1
+5560,5000-5999,B,1,CVEEN - Civil And Environmental Engg,13
+5560,5000-5999,A,1,CVEEN - Civil And Environmental Engg,4
+5850,5000-5999,C,1,CVEEN - Civil And Environmental Engg,3
+5850,5000-5999,B,1,CVEEN - Civil And Environmental Engg,16
+5850,5000-5999,A,1,CVEEN - Civil And Environmental Engg,3
+1030,1000-1999,W,1,EAE - Entertainment Arts & Engg,6
+1030,1000-1999,E,1,EAE - Entertainment Arts & Engg,4
+1030,1000-1999,C,1,EAE - Entertainment Arts & Engg,4
+1030,1000-1999,B,1,EAE - Entertainment Arts & Engg,20
+1030,1000-1999,A,1,EAE - Entertainment Arts & Engg,14
+1410,1000-1999,Other,6,EAE - Entertainment Arts & Engg,1
+1410,1000-1999,Other,4,EAE - Entertainment Arts & Engg,5
+1410,1000-1999,Other,1,EAE - Entertainment Arts & Engg,2
+1410,1000-1999,W,4,EAE - Entertainment Arts & Engg,2
+1410,1000-1999,W,1,EAE - Entertainment Arts & Engg,1
+1410,1000-1999,D,6,EAE - Entertainment Arts & Engg,1
+1410,1000-1999,D,4,EAE - Entertainment Arts & Engg,2
+1410,1000-1999,D,1,EAE - Entertainment Arts & Engg,1
+1410,1000-1999,C,6,EAE - Entertainment Arts & Engg,2
+1410,1000-1999,C,4,EAE - Entertainment Arts & Engg,4
+1410,1000-1999,C,1,EAE - Entertainment Arts & Engg,8
+1410,1000-1999,B,6,EAE - Entertainment Arts & Engg,7
+1410,1000-1999,B,4,EAE - Entertainment Arts & Engg,10
+1410,1000-1999,B,1,EAE - Entertainment Arts & Engg,19
+1410,1000-1999,A,6,EAE - Entertainment Arts & Engg,7
+1410,1000-1999,A,4,EAE - Entertainment Arts & Engg,9
+1410,1000-1999,A,1,EAE - Entertainment Arts & Engg,15
+2420,2000-2999,W,5,EAE - Entertainment Arts & Engg,5
+2420,2000-2999,W,1,EAE - Entertainment Arts & Engg,4
+2420,2000-2999,E,5,EAE - Entertainment Arts & Engg,22
+2420,2000-2999,E,1,EAE - Entertainment Arts & Engg,12
+2420,2000-2999,D,1,EAE - Entertainment Arts & Engg,1
+2420,2000-2999,C,5,EAE - Entertainment Arts & Engg,7
+2420,2000-2999,C,1,EAE - Entertainment Arts & Engg,4
+2420,2000-2999,B,5,EAE - Entertainment Arts & Engg,4
+2420,2000-2999,B,1,EAE - Entertainment Arts & Engg,10
+2420,2000-2999,A,5,EAE - Entertainment Arts & Engg,6
+2420,2000-2999,A,1,EAE - Entertainment Arts & Engg,13
+3020,3000-3999,W,1,EAE - Entertainment Arts & Engg,1
+3020,3000-3999,E,1,EAE - Entertainment Arts & Engg,2
+3020,3000-3999,D,1,EAE - Entertainment Arts & Engg,1
+3020,3000-3999,C,1,EAE - Entertainment Arts & Engg,4
+3020,3000-3999,B,1,EAE - Entertainment Arts & Engg,3
+3020,3000-3999,A,1,EAE - Entertainment Arts & Engg,13
+3600,3000-3999,Other,4,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,Other,2,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,W,4,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,W,2,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,E,4,EAE - Entertainment Arts & Engg,3
+3600,3000-3999,E,3,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,E,2,EAE - Entertainment Arts & Engg,5
+3600,3000-3999,D,2,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,C,3,EAE - Entertainment Arts & Engg,2
+3600,3000-3999,C,2,EAE - Entertainment Arts & Engg,1
+3600,3000-3999,C,1,EAE - Entertainment Arts & Engg,3
+3600,3000-3999,B,4,EAE - Entertainment Arts & Engg,4
+3600,3000-3999,B,3,EAE - Entertainment Arts & Engg,7
+3600,3000-3999,B,2,EAE - Entertainment Arts & Engg,2
+3600,3000-3999,B,1,EAE - Entertainment Arts & Engg,12
+3600,3000-3999,A,4,EAE - Entertainment Arts & Engg,24
+3600,3000-3999,A,3,EAE - Entertainment Arts & Engg,20
+3600,3000-3999,A,2,EAE - Entertainment Arts & Engg,22
+3600,3000-3999,A,1,EAE - Entertainment Arts & Engg,13
+3605,3000-3999,W,1,EAE - Entertainment Arts & Engg,1
+3605,3000-3999,C,1,EAE - Entertainment Arts & Engg,7
+3605,3000-3999,B,1,EAE - Entertainment Arts & Engg,10
+3605,3000-3999,A,1,EAE - Entertainment Arts & Engg,7
+3610,3000-3999,B,1,EAE - Entertainment Arts & Engg,1
+3610,3000-3999,A,1,EAE - Entertainment Arts & Engg,4
+3640,3000-3999,Other,1,EAE - Entertainment Arts & Engg,1
+3640,3000-3999,W,1,EAE - Entertainment Arts & Engg,1
+3640,3000-3999,C,1,EAE - Entertainment Arts & Engg,1
+3640,3000-3999,B,1,EAE - Entertainment Arts & Engg,1
+3640,3000-3999,A,1,EAE - Entertainment Arts & Engg,5
+3645,3000-3999,B,1,EAE - Entertainment Arts & Engg,ds
+3645,3000-3999,A,1,EAE - Entertainment Arts & Engg,ds
+3660,3000-3999,W,2,EAE - Entertainment Arts & Engg,1
+3660,3000-3999,W,1,EAE - Entertainment Arts & Engg,1
+3660,3000-3999,D,3,EAE - Entertainment Arts & Engg,1
+3660,3000-3999,C,3,EAE - Entertainment Arts & Engg,1
+3660,3000-3999,C,2,EAE - Entertainment Arts & Engg,1
+3660,3000-3999,B,3,EAE - Entertainment Arts & Engg,14
+3660,3000-3999,B,2,EAE - Entertainment Arts & Engg,10
+3660,3000-3999,B,1,EAE - Entertainment Arts & Engg,5
+3660,3000-3999,A,3,EAE - Entertainment Arts & Engg,19
+3660,3000-3999,A,2,EAE - Entertainment Arts & Engg,23
+3660,3000-3999,A,1,EAE - Entertainment Arts & Engg,17
+3670,3000-3999,Other,1,EAE - Entertainment Arts & Engg,4
+3670,3000-3999,C,1,EAE - Entertainment Arts & Engg,2
+3670,3000-3999,B,1,EAE - Entertainment Arts & Engg,13
+3670,3000-3999,A,1,EAE - Entertainment Arts & Engg,3
+3675,3000-3999,Other,1,EAE - Entertainment Arts & Engg,ds
+3675,3000-3999,C,1,EAE - Entertainment Arts & Engg,ds
+3675,3000-3999,A,1,EAE - Entertainment Arts & Engg,ds
+3690,3000-3999,Other,1,EAE - Entertainment Arts & Engg,2
+3690,3000-3999,C,1,EAE - Entertainment Arts & Engg,1
+3690,3000-3999,B,1,EAE - Entertainment Arts & Engg,5
+3690,3000-3999,A,1,EAE - Entertainment Arts & Engg,13
+3695,3000-3999,B,1,EAE - Entertainment Arts & Engg,ds
+3695,3000-3999,A,1,EAE - Entertainment Arts & Engg,ds
+4510,4000-4999,W,1,EAE - Entertainment Arts & Engg,1
+4510,4000-4999,C,1,EAE - Entertainment Arts & Engg,4
+4510,4000-4999,B,1,EAE - Entertainment Arts & Engg,13
+4510,4000-4999,A,1,EAE - Entertainment Arts & Engg,71
+4900,4000-4999,Other,17,EAE - Entertainment Arts & Engg,1
+4900,4000-4999,W,17,EAE - Entertainment Arts & Engg,1
+4900,4000-4999,C,17,EAE - Entertainment Arts & Engg,1
+4900,4000-4999,B,21,EAE - Entertainment Arts & Engg,1
+4900,4000-4999,B,17,EAE - Entertainment Arts & Engg,1
+4900,4000-4999,A,21,EAE - Entertainment Arts & Engg,6
+4900,4000-4999,A,17,EAE - Entertainment Arts & Engg,10
+4950,4000-4999,B,4,EAE - Entertainment Arts & Engg,ds
+4950,4000-4999,A,3,EAE - Entertainment Arts & Engg,ds
+1250,1000-1999,Other,1,ECE - Electrical & Computer Engg,7
+1250,1000-1999,W,1,ECE - Electrical & Computer Engg,4
+1250,1000-1999,E,1,ECE - Electrical & Computer Engg,9
+1250,1000-1999,D,1,ECE - Electrical & Computer Engg,3
+1250,1000-1999,C,1,ECE - Electrical & Computer Engg,7
+1250,1000-1999,B,1,ECE - Electrical & Computer Engg,21
+1250,1000-1999,A,1,ECE - Electrical & Computer Engg,32
+2200,2000-2999,E,1,ECE - Electrical & Computer Engg,3
+2200,2000-2999,D,1,ECE - Electrical & Computer Engg,5
+2200,2000-2999,C,1,ECE - Electrical & Computer Engg,10
+2200,2000-2999,B,1,ECE - Electrical & Computer Engg,4
+2200,2000-2999,A,1,ECE - Electrical & Computer Engg,1
+2210,2000-2999,W,1,ECE - Electrical & Computer Engg,6
+2210,2000-2999,E,1,ECE - Electrical & Computer Engg,12
+2210,2000-2999,D,1,ECE - Electrical & Computer Engg,8
+2210,2000-2999,C,1,ECE - Electrical & Computer Engg,29
+2210,2000-2999,B,1,ECE - Electrical & Computer Engg,37
+2210,2000-2999,A,1,ECE - Electrical & Computer Engg,18
+2240,2000-2999,Other,1,ECE - Electrical & Computer Engg,1
+2240,2000-2999,W,1,ECE - Electrical & Computer Engg,1
+2240,2000-2999,E,1,ECE - Electrical & Computer Engg,9
+2240,2000-2999,D,1,ECE - Electrical & Computer Engg,3
+2240,2000-2999,C,1,ECE - Electrical & Computer Engg,13
+2240,2000-2999,B,1,ECE - Electrical & Computer Engg,13
+2240,2000-2999,A,1,ECE - Electrical & Computer Engg,17
+2280,2000-2999,W,1,ECE - Electrical & Computer Engg,1
+2280,2000-2999,E,1,ECE - Electrical & Computer Engg,1
+2280,2000-2999,D,1,ECE - Electrical & Computer Engg,2
+2280,2000-2999,C,1,ECE - Electrical & Computer Engg,9
+2280,2000-2999,B,1,ECE - Electrical & Computer Engg,23
+2280,2000-2999,A,1,ECE - Electrical & Computer Engg,22
+3030,3000-3999,W,1,ECE - Electrical & Computer Engg,3
+3030,3000-3999,E,1,ECE - Electrical & Computer Engg,1
+3030,3000-3999,D,1,ECE - Electrical & Computer Engg,1
+3030,3000-3999,C,1,ECE - Electrical & Computer Engg,7
+3030,3000-3999,B,1,ECE - Electrical & Computer Engg,23
+3030,3000-3999,A,1,ECE - Electrical & Computer Engg,16
+3110,3000-3999,E,1,ECE - Electrical & Computer Engg,3
+3110,3000-3999,C,1,ECE - Electrical & Computer Engg,8
+3110,3000-3999,B,1,ECE - Electrical & Computer Engg,9
+3110,3000-3999,A,1,ECE - Electrical & Computer Engg,36
+3200,3000-3999,W,1,ECE - Electrical & Computer Engg,3
+3200,3000-3999,C,1,ECE - Electrical & Computer Engg,10
+3200,3000-3999,B,1,ECE - Electrical & Computer Engg,40
+3200,3000-3999,A,1,ECE - Electrical & Computer Engg,14
+3300,3000-3999,W,1,ECE - Electrical & Computer Engg,2
+3300,3000-3999,E,1,ECE - Electrical & Computer Engg,1
+3300,3000-3999,C,1,ECE - Electrical & Computer Engg,2
+3300,3000-3999,B,1,ECE - Electrical & Computer Engg,6
+3300,3000-3999,A,1,ECE - Electrical & Computer Engg,14
+3500,3000-3999,W,1,ECE - Electrical & Computer Engg,2
+3500,3000-3999,C,1,ECE - Electrical & Computer Engg,1
+3500,3000-3999,B,1,ECE - Electrical & Computer Engg,6
+3500,3000-3999,A,1,ECE - Electrical & Computer Engg,6
+3510,3000-3999,W,1,ECE - Electrical & Computer Engg,1
+3510,3000-3999,E,1,ECE - Electrical & Computer Engg,3
+3510,3000-3999,C,1,ECE - Electrical & Computer Engg,5
+3510,3000-3999,B,1,ECE - Electrical & Computer Engg,10
+3510,3000-3999,A,1,ECE - Electrical & Computer Engg,7
+3530,3000-3999,E,1,ECE - Electrical & Computer Engg,4
+3530,3000-3999,D,1,ECE - Electrical & Computer Engg,1
+3530,3000-3999,C,1,ECE - Electrical & Computer Engg,11
+3530,3000-3999,B,1,ECE - Electrical & Computer Engg,16
+3530,3000-3999,A,1,ECE - Electrical & Computer Engg,21
+3700,3000-3999,W,1,ECE - Electrical & Computer Engg,3
+3700,3000-3999,E,1,ECE - Electrical & Computer Engg,3
+3700,3000-3999,D,1,ECE - Electrical & Computer Engg,4
+3700,3000-3999,C,1,ECE - Electrical & Computer Engg,6
+3700,3000-3999,B,1,ECE - Electrical & Computer Engg,34
+3700,3000-3999,A,1,ECE - Electrical & Computer Engg,22
+3810,3000-3999,C,1,ECE - Electrical & Computer Engg,2
+3810,3000-3999,B,1,ECE - Electrical & Computer Engg,7
+3810,3000-3999,A,1,ECE - Electrical & Computer Engg,7
+3900,3000-3999,Other,1,ECE - Electrical & Computer Engg,69
+3900,3000-3999,W,1,ECE - Electrical & Computer Engg,1
+3992,3000-3999,E,1,ECE - Electrical & Computer Engg,1
+3992,3000-3999,B,1,ECE - Electrical & Computer Engg,6
+3992,3000-3999,A,1,ECE - Electrical & Computer Engg,12
+4910,4000-4999,Other,1,ECE - Electrical & Computer Engg,9
+4910,4000-4999,C,1,ECE - Electrical & Computer Engg,1
+4910,4000-4999,B,1,ECE - Electrical & Computer Engg,13
+4910,4000-4999,A,1,ECE - Electrical & Computer Engg,23
+4970,4000-4999,B,12,ECE - Electrical & Computer Engg,ds
+4970,4000-4999,A,14,ECE - Electrical & Computer Engg,ds
+4970,4000-4999,A,13,ECE - Electrical & Computer Engg,ds
+4970,4000-4999,A,11,ECE - Electrical & Computer Engg,ds
+4970,4000-4999,A,10,ECE - Electrical & Computer Engg,ds
+4970,4000-4999,A,9,ECE - Electrical & Computer Engg,ds
+4990,4000-4999,A,79,ECE - Electrical & Computer Engg,16
+4999,4000-4999,A,5,ECE - Electrical & Computer Engg,ds
+5221,5000-5999,W,1,ECE - Electrical & Computer Engg,1
+5221,5000-5999,B,1,ECE - Electrical & Computer Engg,2
+5221,5000-5999,A,1,ECE - Electrical & Computer Engg,2
+5233,5000-5999,A,1,ECE - Electrical & Computer Engg,ds
+5324,5000-5999,B,1,ECE - Electrical & Computer Engg,13
+5324,5000-5999,A,1,ECE - Electrical & Computer Engg,10
+5325,5000-5999,D,1,ECE - Electrical & Computer Engg,1
+5325,5000-5999,C,1,ECE - Electrical & Computer Engg,1
+5325,5000-5999,B,1,ECE - Electrical & Computer Engg,11
+5325,5000-5999,A,1,ECE - Electrical & Computer Engg,2
+5340,5000-5999,D,1,ECE - Electrical & Computer Engg,ds
+5340,5000-5999,A,1,ECE - Electrical & Computer Engg,ds
+5520,5000-5999,C,1,ECE - Electrical & Computer Engg,1
+5520,5000-5999,B,1,ECE - Electrical & Computer Engg,6
+5520,5000-5999,A,1,ECE - Electrical & Computer Engg,5
+5530,5000-5999,W,1,ECE - Electrical & Computer Engg,1
+5530,5000-5999,C,1,ECE - Electrical & Computer Engg,1
+5530,5000-5999,B,1,ECE - Electrical & Computer Engg,3
+5530,5000-5999,A,1,ECE - Electrical & Computer Engg,2
+5620,5000-5999,D,1,ECE - Electrical & Computer Engg,1
+5620,5000-5999,C,1,ECE - Electrical & Computer Engg,5
+5620,5000-5999,B,90,ECE - Electrical & Computer Engg,ds
+5620,5000-5999,B,1,ECE - Electrical & Computer Engg,10
+5620,5000-5999,A,90,ECE - Electrical & Computer Engg,ds
+5620,5000-5999,A,1,ECE - Electrical & Computer Engg,4
+5640,5000-5999,A,1,ECE - Electrical & Computer Engg,ds
+5780,5000-5999,E,1,ECE - Electrical & Computer Engg,2
+5780,5000-5999,C,1,ECE - Electrical & Computer Engg,1
+5780,5000-5999,B,1,ECE - Electrical & Computer Engg,9
+5780,5000-5999,A,1,ECE - Electrical & Computer Engg,17
+5960,5000-5999,B,6,ECE - Electrical & Computer Engg,ds
+5960,5000-5999,A,1,ECE - Electrical & Computer Engg,5
+1022,1000-1999,W,1,ENGIN - Engineering,1
+1022,1000-1999,B,1,ENGIN - Engineering,2
+1022,1000-1999,A,1,ENGIN - Engineering,23
+5791,5000-5999,E,1,ENGIN - Engineering,1
+5791,5000-5999,A,1,ENGIN - Engineering,22
+1000,1000-1999,E,1,ME EN - Mechanical Engineering,1
+1000,1000-1999,D,1,ME EN - Mechanical Engineering,1
+1000,1000-1999,C,1,ME EN - Mechanical Engineering,2
+1000,1000-1999,B,1,ME EN - Mechanical Engineering,8
+1000,1000-1999,A,1,ME EN - Mechanical Engineering,32
+1005,1000-1999,A,1,ME EN - Mechanical Engineering,ds
+1010,1000-1999,W,1,ME EN - Mechanical Engineering,11
+1010,1000-1999,E,1,ME EN - Mechanical Engineering,4
+1010,1000-1999,D,1,ME EN - Mechanical Engineering,10
+1010,1000-1999,C,1,ME EN - Mechanical Engineering,21
+1010,1000-1999,B,1,ME EN - Mechanical Engineering,40
+1010,1000-1999,A,1,ME EN - Mechanical Engineering,56
+2010,2000-2999,Other,1,ME EN - Mechanical Engineering,1
+2010,2000-2999,W,1,ME EN - Mechanical Engineering,7
+2010,2000-2999,E,1,ME EN - Mechanical Engineering,9
+2010,2000-2999,D,1,ME EN - Mechanical Engineering,30
+2010,2000-2999,C,1,ME EN - Mechanical Engineering,28
+2010,2000-2999,B,1,ME EN - Mechanical Engineering,43
+2010,2000-2999,A,1,ME EN - Mechanical Engineering,34
+2030,2000-2999,W,1,ME EN - Mechanical Engineering,1
+2030,2000-2999,E,1,ME EN - Mechanical Engineering,1
+2030,2000-2999,D,1,ME EN - Mechanical Engineering,4
+2030,2000-2999,C,1,ME EN - Mechanical Engineering,19
+2030,2000-2999,B,1,ME EN - Mechanical Engineering,33
+2030,2000-2999,A,1,ME EN - Mechanical Engineering,23
+2450,2000-2999,Other,1,ME EN - Mechanical Engineering,1
+2450,2000-2999,W,1,ME EN - Mechanical Engineering,3
+2450,2000-2999,E,1,ME EN - Mechanical Engineering,3
+2450,2000-2999,D,1,ME EN - Mechanical Engineering,3
+2450,2000-2999,C,1,ME EN - Mechanical Engineering,4
+2450,2000-2999,B,1,ME EN - Mechanical Engineering,35
+2450,2000-2999,A,1,ME EN - Mechanical Engineering,39
+2550,2000-2999,W,1,ME EN - Mechanical Engineering,2
+2550,2000-2999,E,1,ME EN - Mechanical Engineering,1
+2550,2000-2999,D,1,ME EN - Mechanical Engineering,4
+2550,2000-2999,C,1,ME EN - Mechanical Engineering,10
+2550,2000-2999,B,1,ME EN - Mechanical Engineering,60
+2550,2000-2999,A,1,ME EN - Mechanical Engineering,25
+2650,2000-2999,W,1,ME EN - Mechanical Engineering,3
+2650,2000-2999,E,1,ME EN - Mechanical Engineering,11
+2650,2000-2999,D,1,ME EN - Mechanical Engineering,12
+2650,2000-2999,C,1,ME EN - Mechanical Engineering,31
+2650,2000-2999,B,1,ME EN - Mechanical Engineering,21
+2650,2000-2999,A,1,ME EN - Mechanical Engineering,16
+2960,2000-2999,E,1,ME EN - Mechanical Engineering,1
+2960,2000-2999,A,3,ME EN - Mechanical Engineering,6
+2960,2000-2999,A,2,ME EN - Mechanical Engineering,ds
+2960,2000-2999,A,1,ME EN - Mechanical Engineering,5
+3000,3000-3999,E,1,ME EN - Mechanical Engineering,14
+3000,3000-3999,D,1,ME EN - Mechanical Engineering,8
+3000,3000-3999,C,1,ME EN - Mechanical Engineering,29
+3000,3000-3999,B,1,ME EN - Mechanical Engineering,41
+3000,3000-3999,A,1,ME EN - Mechanical Engineering,26
+3210,3000-3999,Other,1,ME EN - Mechanical Engineering,1
+3210,3000-3999,D,1,ME EN - Mechanical Engineering,1
+3210,3000-3999,C,1,ME EN - Mechanical Engineering,30
+3210,3000-3999,B,1,ME EN - Mechanical Engineering,74
+3210,3000-3999,A,1,ME EN - Mechanical Engineering,24
+3220,3000-3999,E,1,ME EN - Mechanical Engineering,3
+3220,3000-3999,D,1,ME EN - Mechanical Engineering,2
+3220,3000-3999,C,1,ME EN - Mechanical Engineering,9
+3220,3000-3999,B,1,ME EN - Mechanical Engineering,42
+3220,3000-3999,A,1,ME EN - Mechanical Engineering,13
+3300,3000-3999,Other,1,ME EN - Mechanical Engineering,1
+3300,3000-3999,W,1,ME EN - Mechanical Engineering,1
+3300,3000-3999,E,1,ME EN - Mechanical Engineering,6
+3300,3000-3999,D,1,ME EN - Mechanical Engineering,1
+3300,3000-3999,C,1,ME EN - Mechanical Engineering,13
+3300,3000-3999,B,1,ME EN - Mechanical Engineering,37
+3300,3000-3999,A,1,ME EN - Mechanical Engineering,16
+3400,3000-3999,E,1,ME EN - Mechanical Engineering,1
+3400,3000-3999,A,1,ME EN - Mechanical Engineering,36
+3600,3000-3999,W,1,ME EN - Mechanical Engineering,1
+3600,3000-3999,E,1,ME EN - Mechanical Engineering,7
+3600,3000-3999,D,1,ME EN - Mechanical Engineering,6
+3600,3000-3999,C,1,ME EN - Mechanical Engineering,24
+3600,3000-3999,B,1,ME EN - Mechanical Engineering,25
+3600,3000-3999,A,1,ME EN - Mechanical Engineering,17
+3610,3000-3999,E,1,ME EN - Mechanical Engineering,3
+3610,3000-3999,D,1,ME EN - Mechanical Engineering,3
+3610,3000-3999,C,1,ME EN - Mechanical Engineering,9
+3610,3000-3999,B,1,ME EN - Mechanical Engineering,28
+3610,3000-3999,A,1,ME EN - Mechanical Engineering,12
+3650,3000-3999,W,1,ME EN - Mechanical Engineering,2
+3650,3000-3999,E,1,ME EN - Mechanical Engineering,3
+3650,3000-3999,D,1,ME EN - Mechanical Engineering,10
+3650,3000-3999,C,1,ME EN - Mechanical Engineering,29
+3650,3000-3999,B,1,ME EN - Mechanical Engineering,36
+3650,3000-3999,A,1,ME EN - Mechanical Engineering,31
+3700,3000-3999,W,1,ME EN - Mechanical Engineering,1
+3700,3000-3999,E,1,ME EN - Mechanical Engineering,2
+3700,3000-3999,C,1,ME EN - Mechanical Engineering,17
+3700,3000-3999,B,1,ME EN - Mechanical Engineering,24
+3700,3000-3999,A,1,ME EN - Mechanical Engineering,8
+4000,4000-4999,B,1,ME EN - Mechanical Engineering,3
+4000,4000-4999,A,1,ME EN - Mechanical Engineering,66
+4010,4000-4999,C,1,ME EN - Mechanical Engineering,2
+4010,4000-4999,B,1,ME EN - Mechanical Engineering,75
+4010,4000-4999,A,1,ME EN - Mechanical Engineering,55
+4999,4000-4999,A,1,ME EN - Mechanical Engineering,5
+5050,5000-5999,C,1,ME EN - Mechanical Engineering,1
+5050,5000-5999,B,1,ME EN - Mechanical Engineering,2
+5050,5000-5999,A,1,ME EN - Mechanical Engineering,7
+5055,5000-5999,A,1,ME EN - Mechanical Engineering,ds
+5100,5000-5999,B,1,ME EN - Mechanical Engineering,16
+5100,5000-5999,A,1,ME EN - Mechanical Engineering,62
+5210,5000-5999,C,1,ME EN - Mechanical Engineering,3
+5210,5000-5999,B,1,ME EN - Mechanical Engineering,11
+5210,5000-5999,A,1,ME EN - Mechanical Engineering,3
+5230,5000-5999,B,1,ME EN - Mechanical Engineering,3
+5230,5000-5999,A,1,ME EN - Mechanical Engineering,3
+5400,5000-5999,C,1,ME EN - Mechanical Engineering,2
+5400,5000-5999,B,1,ME EN - Mechanical Engineering,8
+5400,5000-5999,A,1,ME EN - Mechanical Engineering,8
+5520,5000-5999,E,1,ME EN - Mechanical Engineering,2
+5520,5000-5999,D,1,ME EN - Mechanical Engineering,3
+5520,5000-5999,C,1,ME EN - Mechanical Engineering,25
+5520,5000-5999,B,1,ME EN - Mechanical Engineering,33
+5520,5000-5999,A,1,ME EN - Mechanical Engineering,8
+5530,5000-5999,Other,1,ME EN - Mechanical Engineering,ds
+5530,5000-5999,A,1,ME EN - Mechanical Engineering,ds
+5540,5000-5999,C,1,ME EN - Mechanical Engineering,ds
+5540,5000-5999,A,1,ME EN - Mechanical Engineering,ds
+5730,5000-5999,A,1,ME EN - Mechanical Engineering,ds
+5830,5000-5999,W,1,ME EN - Mechanical Engineering,1
+5830,5000-5999,B,1,ME EN - Mechanical Engineering,12
+5830,5000-5999,A,1,ME EN - Mechanical Engineering,28
+5910,5000-5999,Other,3,ME EN - Mechanical Engineering,ds
+5910,5000-5999,Other,2,ME EN - Mechanical Engineering,7
+5910,5000-5999,Other,1,ME EN - Mechanical Engineering,ds
+5950,5000-5999,Other,22,ME EN - Mechanical Engineering,ds
+5950,5000-5999,Other,7,ME EN - Mechanical Engineering,ds
+5950,5000-5999,A,37,ME EN - Mechanical Engineering,ds
+5950,5000-5999,A,25,ME EN - Mechanical Engineering,ds
+5950,5000-5999,A,21,ME EN - Mechanical Engineering,ds
+5950,5000-5999,A,12,ME EN - Mechanical Engineering,ds
+5950,5000-5999,A,10,ME EN - Mechanical Engineering,ds
+5960,5000-5999,Other,8,ME EN - Mechanical Engineering,1
+5960,5000-5999,C,4,ME EN - Mechanical Engineering,1
+5960,5000-5999,C,3,ME EN - Mechanical Engineering,2
+5960,5000-5999,C,2,ME EN - Mechanical Engineering,1
+5960,5000-5999,B,4,ME EN - Mechanical Engineering,2
+5960,5000-5999,B,3,ME EN - Mechanical Engineering,8
+5960,5000-5999,B,2,ME EN - Mechanical Engineering,3
+5960,5000-5999,B,1,ME EN - Mechanical Engineering,8
+5960,5000-5999,A,9,ME EN - Mechanical Engineering,ds
+5960,5000-5999,A,8,ME EN - Mechanical Engineering,5
+5960,5000-5999,A,6,ME EN - Mechanical Engineering,ds
+5960,5000-5999,A,5,ME EN - Mechanical Engineering,5
+5960,5000-5999,A,4,ME EN - Mechanical Engineering,12
+5960,5000-5999,A,3,ME EN - Mechanical Engineering,6
+5960,5000-5999,A,2,ME EN - Mechanical Engineering,3
+5960,5000-5999,A,1,ME EN - Mechanical Engineering,5
+1801,1000-1999,W,1,MSE - Materials Science And Engg,1
+1801,1000-1999,E,1,MSE - Materials Science And Engg,1
+1801,1000-1999,B,1,MSE - Materials Science And Engg,1
+1801,1000-1999,A,1,MSE - Materials Science And Engg,18
+2160,2000-2999,Other,1,MSE - Materials Science And Engg,1
+2160,2000-2999,W,1,MSE - Materials Science And Engg,3
+2160,2000-2999,E,1,MSE - Materials Science And Engg,1
+2160,2000-2999,D,1,MSE - Materials Science And Engg,7
+2160,2000-2999,C,1,MSE - Materials Science And Engg,22
+2160,2000-2999,B,1,MSE - Materials Science And Engg,26
+2160,2000-2999,A,1,MSE - Materials Science And Engg,14
+2170,2000-2999,D,1,MSE - Materials Science And Engg,1
+2170,2000-2999,C,1,MSE - Materials Science And Engg,2
+2170,2000-2999,B,1,MSE - Materials Science And Engg,8
+2170,2000-2999,A,1,MSE - Materials Science And Engg,2
+3011,3000-3999,D,1,MSE - Materials Science And Engg,1
+3011,3000-3999,C,1,MSE - Materials Science And Engg,4
+3011,3000-3999,B,1,MSE - Materials Science And Engg,5
+3011,3000-3999,A,1,MSE - Materials Science And Engg,9
+3061,3000-3999,Other,1,MSE - Materials Science And Engg,1
+3061,3000-3999,W,1,MSE - Materials Science And Engg,1
+3061,3000-3999,D,1,MSE - Materials Science And Engg,1
+3061,3000-3999,C,1,MSE - Materials Science And Engg,2
+3061,3000-3999,B,1,MSE - Materials Science And Engg,13
+3061,3000-3999,A,1,MSE - Materials Science And Engg,12
+3310,3000-3999,W,1,MSE - Materials Science And Engg,1
+3310,3000-3999,E,1,MSE - Materials Science And Engg,1
+3310,3000-3999,D,1,MSE - Materials Science And Engg,1
+3310,3000-3999,C,1,MSE - Materials Science And Engg,6
+3310,3000-3999,B,1,MSE - Materials Science And Engg,5
+3310,3000-3999,A,1,MSE - Materials Science And Engg,10
+5025,5000-5999,B,1,MSE - Materials Science And Engg,12
+5025,5000-5999,A,1,MSE - Materials Science And Engg,11
+5034,5000-5999,Other,1,MSE - Materials Science And Engg,1
+5034,5000-5999,C,1,MSE - Materials Science And Engg,3
+5034,5000-5999,B,1,MSE - Materials Science And Engg,8
+5034,5000-5999,A,1,MSE - Materials Science And Engg,8
+5040,5000-5999,B,1,MSE - Materials Science And Engg,ds
+5050,5000-5999,B,2,MSE - Materials Science And Engg,3
+5050,5000-5999,A,2,MSE - Materials Science And Engg,16
+5072,5000-5999,W,1,MSE - Materials Science And Engg,1
+5072,5000-5999,C,1,MSE - Materials Science And Engg,1
+5072,5000-5999,B,1,MSE - Materials Science And Engg,4
+5072,5000-5999,A,1,MSE - Materials Science And Engg,3
+5090,5000-5999,Other,1,MSE - Materials Science And Engg,1
+5090,5000-5999,A,1,MSE - Materials Science And Engg,20
+5099,5000-5999,W,1,MSE - Materials Science And Engg,1
+5099,5000-5999,A,1,MSE - Materials Science And Engg,19
+5354,5000-5999,B,1,MSE - Materials Science And Engg,ds
+5354,5000-5999,A,1,MSE - Materials Science And Engg,ds
+3100,3000-3999,C,1,NUCL - Nuclear Engineering,2
+3100,3000-3999,B,1,NUCL - Nuclear Engineering,3
+3100,3000-3999,A,1,NUCL - Nuclear Engineering,3
+3200,3000-3999,C,1,NUCL - Nuclear Engineering,1
+3200,3000-3999,B,1,NUCL - Nuclear Engineering,4
+3200,3000-3999,A,1,NUCL - Nuclear Engineering,4
+4900,4000-4999,E,2,NUCL - Nuclear Engineering,ds
+4900,4000-4999,E,1,NUCL - Nuclear Engineering,ds
+4900,4000-4999,A,3,NUCL - Nuclear Engineering,ds
+4900,4000-4999,A,2,NUCL - Nuclear Engineering,ds
+5900,5000-5999,E,1,NUCL - Nuclear Engineering,ds
