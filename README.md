@@ -5,7 +5,7 @@ Introduction to Data Science (MATH 4100 / CS 5360), University of Utah
 
 This repository contains the best projects of 2018  
 
-## Winners: Categorization of Asteroids by Probable Origin  
+## Winners  
   
 **Virtual Sommelier**  
 Brian Tillman, Jiada Li, Trevor Olsen  
