@@ -7,18 +7,18 @@ This repository contains the best projects of 2018
 
 ## Winners: Categorization of Asteroids by Probable Origin  
   
-**Virtual Sommelier**
+**Virtual Sommelier**  
 Brian Tillman, Jiada Li, Trevor Olsen  
 [Project Video](https://www.youtube.com/watch?v=6asJv4zSYCQ&feature=youtu.be)
   
-**Take Your Shot, a Shot Chart Analysis of the Utah Jazz**
+**Take Your Shot, a Shot Chart Analysis of the Utah Jazz**  
 Jacob Brown, Kyle Salisbury, Avery Smith  
 [Project Video](https://www.youtube.com/watch?v=HDrmcKn1qhI) 
   
   
-## Runner Ups . 
+## Runner Ups  
   
-**Tweet, Tweet…Can That Bird Predict Stock Prices??**
+**Tweet, Tweet…Can That Bird Predict Stock Prices??**  
 Jorge Rodriguez and Rebecca Rodriguez  
 [Project Video](https://www.youtube.com/watch?v=a2QSQLli0Pk&feature=youtu.be)  
   
@@ -30,7 +30,7 @@ Adam Vogel, Brooke Stanislawski, Connor DeFriez
 **Exploratory Analysis of Salt Lake City Police Data**  
 Walter Shearon, Zach St. Clair, Nicholas Bitter
   
-**Analysis of Music Trends - Using the Spotify API**
+**Analysis of Music Trends - Using the Spotify API**  
 Puneet Mulay, Vivek Mishal  
 [Project Video](https://www.youtube.com/watch?v=jHbWDxOttUk&feature=youtu.be)
 
